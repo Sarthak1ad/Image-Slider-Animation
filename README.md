@@ -25,9 +25,7 @@ This project is a simple image gallery that features a **hover-based slide anima
 
 When you open the HTML file in your browser, you'll see five images side-by-side. Hover over any image to see it smoothly grow in size.
 
-## 📷 Screenshot
 
-*(You can add a screenshot of your gallery here)*
 
 ## 📌 Usage
 
